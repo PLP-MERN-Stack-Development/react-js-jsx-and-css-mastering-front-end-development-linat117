@@ -8,7 +8,7 @@ export default function Home() {
     <div className="grid gap-6">
       <Card className="text-center">
         <h1 className="text-4xl font-bold text-blue-600 dark:text-white mb-3">
-          Welcome to NoteVault
+          Welcome to IdeaTrack
         </h1>
         <p className="mt-2 text-base text-gray-600 dark:text-gray-300">
           A beautiful notes & task manager built with React and Tailwind CSS.
